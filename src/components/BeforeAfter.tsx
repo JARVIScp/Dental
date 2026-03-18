@@ -44,7 +44,7 @@ export const BeforeAfter: React.FC = () => {
               style={{ clipPath: `inset(0 ${100 - sliderPosition}% 0 0)` }}
             >
               <img 
-                src={`${import.meta.env.BASE_URL}after.jpg`} 
+                src={`${import.meta.env.BASE_URL}before.jpg`} 
                 alt="Before Treatment - Alignment in Progress"
                 className="absolute inset-0 w-full h-full object-cover"
                 referrerPolicy="no-referrer"
