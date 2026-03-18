@@ -46,7 +46,7 @@ export const AppointmentCTA: React.FC<AppointmentCTAProps> = ({ onBookClick }) =
           {/* Floating Image (Desktop) */}
           <div className="hidden lg:block absolute top-1/2 right-24 -translate-y-1/2 w-80 h-80 rounded-3xl overflow-hidden border-8 border-white/10 shadow-2xl rotate-6">
             <img 
-              src="https://images.unsplash.com/photo-1593022356769-11f09a79a5cc?auto=format&fit=crop&q=80&w=600" 
+              src="https://www.shutterstock.com/image-photo/smiling-woman-curly-hair-enjoys-600nw-2672268185.jpg" 
               alt="Confident Smile"
               className="w-full h-full object-cover"
               referrerPolicy="no-referrer"
